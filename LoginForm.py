@@ -7,8 +7,6 @@ window.title ("Login Form")
 window.geometry("800x300")
 window.configure(bg = '#333333')
 
-#execfile to another python script
-
 #Account Validation:
 def login():
     username = "1"
